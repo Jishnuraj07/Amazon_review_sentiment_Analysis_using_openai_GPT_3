@@ -2,7 +2,7 @@
 
 # Sentiment Analysis Streamlit App
 
-This project is a Streamlit web application for performing sentiment analysis on a dataset of reviews using the OpenAI GPT-3.5 model. The sentiment analysis results are visualized using pie charts and bar charts, with emojis representing different sentiment labels.
+This project is a Streamlit web application for performing sentiment analysis on a dataset of reviews using the OpenAI GPT-3.5 model via AzureopenAI API key using Chat playground. The sentiment analysis results are visualized using pie charts and bar charts, with emojis representing different sentiment labels.
 
 ## Features
 
